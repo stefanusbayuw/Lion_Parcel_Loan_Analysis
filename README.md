@@ -13,7 +13,7 @@ Dashboard dari analisis yang telah dilakukan terdapat pada link berikut : https:
 
 - Penerima pinjaman dapat diberikan pinjaman oleh perusahaan jika memiliki riwayat kredit sebelumnya.
 
-- Pentingnya melakukan profiling penerima pinjaman agar perusahaan tidak salah dalam memberikan pinjaman yang dapat menimbulkan kerugian perusahaan juka terjadi gagal bayar.
+- Pentingnya melakukan profiling penerima pinjaman agar perusahaan tidak salah dalam memberikan pinjaman yang dapat menimbulkan kerugian perusahaan jika terjadi gagal bayar.
 
 
 
